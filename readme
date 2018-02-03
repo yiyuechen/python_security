@@ -1,0 +1,6 @@
+our 1st work is a port scanner
+2nd is a unix password cracker
+3rd is a zipfile cracker
+
+The optparse module is deprecated and will not be developed further; development will continue with the argparse module.
+use argparse instead.
